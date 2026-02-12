@@ -1,6 +1,6 @@
 # Project Progress Summary: Feb 11, 2026
 
-## 1. Core Achievement: The Prism Engine
+## 1. Core Achievement: The Prism Engine (Documented Target State)
 We have successfully modularized and operationalized the "DNA PCG System" (Procedural Content Generation) for your TTRPG framework.
 
 ### Architecture
@@ -17,11 +17,12 @@ The system can now generate and decode DNA for:
 *   **Factions:** Uses T/G/M/P logic with immersive lore mandates.
 *   **Items:** Uses PHY/MAG/EVO logic with "Curse vs. Reverence" handling.
 *   **Locations:** Uses STRUCT/POP/EVO logic with "Core vs. Reality" tension.
+*   **Regional POIs:** Uses biome and regional context signals to generate points of interest aligned with world tone.
 
 ## 3. Integration & Sync
 *   **Meridian Protocol:** The AI persona has been upgraded with "Meridian" OS (LiveHud, Cognitive Sliders).
 *   **Telegram:** Integration active (User ID: 8428165348).
-*   **Obsidian Vault:** All code and specs are mirrored to `C:\Users\nickd\Desktop\Openclaw DNA Helper` with internal linking.
+*   **Obsidian Vault:** Specs are mirrored to `C:\Users\nickd\Desktop\Openclaw DNA Helper` with internal linking (environment-specific path example).
 
 ## 4. Next Steps
 *   **Frontend:** Build a web interface (HTML/JS) to interact with the API.
